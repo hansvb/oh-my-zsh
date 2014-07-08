@@ -1,6 +1,6 @@
 h2. About this fork
 
-- added my own (slightly modified @./themes/robbyrussel.zsh-theme): @./themes/hansvb.zsh-theme@.
+* added my own theme @./themes/hansvb.zsh-theme@ (slightly modified from @./themes/robbyrussel.zsh-theme@).
 
 !https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png!
 
